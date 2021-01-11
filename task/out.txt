@@ -1,0 +1,2 @@
+Total lines: 3
+Sorted data:[1 -2   333 4, 42, 1                 1]
